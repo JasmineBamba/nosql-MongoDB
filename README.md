@@ -40,14 +40,14 @@ Before starting this project, basic understanding of the following concepts and 
 
 To set up the project environment, we will need to install the following tools and libraries:
 
-* MongoDB: Install MongoDB on local machine or use a cloud-based MongoDB service. Follow the installation instructions for your specific operating system from the official MongoDB website.
+* MongoDB: Install MongoDB on local machine or use a cloud-based MongoDB service. Follow the installation instructions for your specific operating system from the official MongoDB website (https://www.mongodb.com/try/download/community).
 
-* Python: If you don't already have Python installed, download and install the latest version of Python from the official Python website.
+* Python: If you don't already have Python installed, download and install the latest version of Python from the official Python website (https://www.python.org/downloads/).
 
 * Jupyter Notebook: Install Jupyter Notebook using pip, the Python package manager. Can be done by running the following command in your terminal or command prompt:
 
 Copy code
-pip install notebook
+`pip install notebook`
 PyMongo: PyMongo is a Python driver for MongoDB. Install it using pip:
 
 Copy code
@@ -61,7 +61,3 @@ NumPy: NumPy is a library for numerical computations in Python. Install it using
 Copy code
 pip install numpy
 Git: If Git is not already installed on your machine, you can download and install it from the official Git website.
-
-
-
-
