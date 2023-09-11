@@ -13,6 +13,7 @@ MongoDB is a popular NoSQL database management system that is used for storing, 
 - [Part 1:Database and Jupyter Notebook Set Up](#usage)
 - [Part 2:Update the Database](#update-databse)
 - [Part 3:Exploratory Analysis](#exploratory-analysis)
+- [References](#ref)
 
 ## Project Overview
 
@@ -20,3 +21,47 @@ The project involves working with food establishment ratings data from the UK Fo
 - [Part 1:Database and Jupyter Notebook Set Up](#usage)
 - [Part 2:Update the Database](#update-databse)
 - [Part 3:Exploratory Analysis](#exploratory-analysis)
+
+## Getting Started 
+
+### Prerequisites
+
+Before starting this project, basic understanding of the following concepts and tools is required:
+
+* Python Programming: Should be comfortable with Python programming, as we'll be using Python to interact with the MongoDB database and perform data analysis.
+
+* Jupyter Notebooks: Familiarity with Jupyter Notebooks is essential, as we'll be working with Jupyter Notebook files to write and execute your code.
+
+* MongoDB Basics: A basic understanding of MongoDB and NoSQL databases is helpful. Must know how to create databases, collections, insert documents, and perform queries in MongoDB.
+
+* Git and GitHub: Should be comfortable using Git for version control and have a GitHub account to store and manage project files.
+
+### Installation
+
+To set up the project environment, we will need to install the following tools and libraries:
+
+* MongoDB: Install MongoDB on local machine or use a cloud-based MongoDB service. Follow the installation instructions for your specific operating system from the official MongoDB website.
+
+* Python: If you don't already have Python installed, download and install the latest version of Python from the official Python website.
+
+* Jupyter Notebook: Install Jupyter Notebook using pip, the Python package manager. Can be done by running the following command in your terminal or command prompt:
+
+Copy code
+pip install notebook
+PyMongo: PyMongo is a Python driver for MongoDB. Install it using pip:
+
+Copy code
+pip install pymongo
+Pandas: Pandas is a powerful data manipulation library in Python. You can install it using pip:
+
+Copy code
+pip install pandas
+NumPy: NumPy is a library for numerical computations in Python. Install it using pip:
+
+Copy code
+pip install numpy
+Git: If Git is not already installed on your machine, you can download and install it from the official Git website.
+
+
+
+
