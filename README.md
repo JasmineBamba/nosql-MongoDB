@@ -10,8 +10,13 @@ MongoDB is a popular NoSQL database management system that is used for storing, 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Database and Jupyter Notebook Set Up](#usage)
-- [Update the Database](#update-databse)
-- [Exploratory Analysis](#exploratory-analysis)
+- [Part 1:Database and Jupyter Notebook Set Up](#usage)
+- [Part 2:Update the Database](#update-databse)
+- [Part 3:Exploratory Analysis](#exploratory-analysis)
 
 ## Project Overview
+
+The project involves working with food establishment ratings data from the UK Food Standards Agency. The goal is to assist a food magazine company, "Eat Safe, Love," in making informed decisions about which food establishments to feature in their articles. The project can be divided into several key steps:
+- [Part 1:Database and Jupyter Notebook Set Up](#usage)
+- [Part 2:Update the Database](#update-databse)
+- [Part 3:Exploratory Analysis](#exploratory-analysis)
