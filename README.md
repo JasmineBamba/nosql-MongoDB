@@ -46,18 +46,10 @@ To set up the project environment, we will need to install the following tools a
 
 * Jupyter Notebook: Install Jupyter Notebook using pip, the Python package manager. Can be done by running the following command in your terminal or command prompt:
 
-Copy code
 `pip install notebook`
 PyMongo: PyMongo is a Python driver for MongoDB. Install it using pip:
 
-Copy code
-pip install pymongo
+`pip install pymongo`
 Pandas: Pandas is a powerful data manipulation library in Python. You can install it using pip:
 
-Copy code
-pip install pandas
-NumPy: NumPy is a library for numerical computations in Python. Install it using pip:
-
-Copy code
-pip install numpy
-Git: If Git is not already installed on your machine, you can download and install it from the official Git website.
+`pip install pandas`
